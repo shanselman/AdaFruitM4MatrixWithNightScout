@@ -1,11 +1,8 @@
 # AdaFruitM4MatrixWithNightScout
-Code to run an AdaFruit M4 Matrix display with Nightscout to show your Blood Sugar
-
-![MatrixPortal m4 with blood sugar](ImgForReadme/IMG_1330.jpg)
-
-# Project Title
 
 This project is designed to pull data from Nightscout and display your blood sugar levels in near real-time (every 5 min) on an [Adafruit M4 MatrixPortal Display](https://learn.adafruit.com/adafruit-matrixportal-m4/overview)
+
+![MatrixPortal m4 with blood sugar](ImgForReadme/IMG_1330.jpg)
 
 ## Prerequisites
 
